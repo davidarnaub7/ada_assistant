@@ -1,0 +1,141 @@
+GREETING:
+      - Good day
+      - Good evening
+      - Good morning
+      - Good to see you
+      - Greetings
+      - Have you been well?
+      - Hello
+      - Hello Ada
+      - Hello Agent
+      - Hello I am looking for some help here
+      - Hey how are you doing
+      - Hey there
+      - Hey there all
+      - Hey twin
+      - Hey you
+      - hi
+      - Hi assistant
+      - Hi there
+      - hiya
+      - How are things going?
+      - How are you today?
+      - How have you been?
+      - How is it going?
+      - How r u?
+      - Looking good eve
+      - Hi Ada
+      - I'm back
+      - Ok take me back
+      - What's new?
+      - What's up?
+      - You there
+      - Need your help
+  
+NEW_MEETING:
+      - I have a new meeting for tomorrow
+      - New meeting on day
+      - New meeting at 15
+      - i have an appointment
+      - can you make an appointment for me
+      - i want to schedule a meeting
+      - i want to schedule an appointment
+      - make an appointment
+      - i would like to make and appointment
+      - can you please schedule a meeting
+      - help me with a meeting
+      - schedule a meeting
+      - create a meeting
+      - create a new meeting
+      - new appointment
+      - do an appointment
+      - tomorrow at 20
+      - today at 15
+  
+LIST_MEETING:
+      - List the meetings for tomorrow
+      - What meetings I have for today?
+      - What about my meetings?
+      - What about today?
+      - Give me things to do
+      - do we have availability next week
+      - help me get all meetings
+      - What are my meetings?
+      - Please tell me my meetings
+      - Show meetings
+      - View meetings
+      - Can you tell me my meetings
+      - See my meetings
+      - meetings history
+      - Give me my list of meetings
+
+ASK_FOR_A_TAXI:
+      - I want a taxi
+      - Book me a taxi
+      - One taxi please
+      - What about a taxi booking?
+      - Taxi
+      - I'd like a taxi
+      - I would like a taxi
+      - Can i have a taxi?
+      - I want a taxi
+      - I want a cab
+      - I need a taxi
+      - I need a cab
+      - Looking for a taxi
+      - Looking for a cab
+      - Please book a cab
+
+LIST_TAXIS:
+      - List the taxis I have
+      - List me the taxis
+      - List taxis
+      - What about the taxis today?
+      - Give me the taxis I have for today
+      - I wanna check my list of taxis
+      - Which are my taxis?
+      - Can i see my taxis?
+
+SAY_GOODBYE:
+      - Hey bot go away
+      - Bye
+      - Bye Ada
+      - I have to go
+      - See you
+      - See you soon
+      - Bye bye
+      - Bye now
+      - Catch you later
+      - Cya later
+      - End trial
+      - Ending this session
+      - Finished now, good bye
+      - Get lost
+      - Go away
+      - Go off
+      - Going now
+      - Good. bye.
+      - Good bye
+      - Have a nice day
+      - I am leaving
+      - I am out of here
+      - I d like to stop doing this
+      - I have got to go
+      - I want to quit
+      - I'm done
+      - I'm leaving now
+      - Im done
+      - Im good thank you
+      - It was nice chatting with you
+      - Ok goodbye
+      - See you
+      - See you later
+      - Shut up
+      - Stop doing this
+      - Stop talking to me
+      - Thank you for your time
+      - Thanks very much, bye!
+      - Thanks, bye!
+      - That is all
+      - That's everything
+      - Time to go
